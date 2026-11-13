@@ -14,3 +14,9 @@ Fotos de [Unsplash](https://unsplash.com), bajo la [Licencia Unsplash](https://u
 | `img/grupo-hiphop.webp` | https://unsplash.com/photos/womens-black-shirt-lot-GRDpPpKczdY |
 
 Logo y marca Nodo Ventas: diseño propio. Tipografías: Google Fonts (OFL).
+
+## Marca y fotos del negocio
+
+- Wordmark tipográfico «gm studio», en los colores de su merchandising (gorra y remera rosas con el nombre), tomado de la foto pública de la directora en https://www.iidca.net/gabriela-marques-dias-1. No se inventó un isotipo.
+- Foto de la directora: misma ficha pública del IIDCA.
+- No se encontraron fotos del salón en fuentes públicas al armar la demo; el resto son fotos de stock del rubro.
